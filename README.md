@@ -3,7 +3,7 @@
 
 <details>
 
-<summary>Debian 12</summary>
+<summary>For Debian, Ubuntu, Linux Mint</summary>
 
 ```bash
 wget https://packages.microsoft.com/config/debian/12/packages-microsoft-prod.deb -O packages-microsoft-prod.deb && \
@@ -22,3 +22,21 @@ dotnet --version
 ```
 
 </details>
+
+
+<details>
+ 
+ <summary>For RHEL, Fedora, AlmaLinux</summary>
+  
+ ```bash
+ sudo dnf update
+ ```
+ </details>
+
+ <details>
+ <summary>For Arch, Manjaro, EndeavourOS</summary>
+  
+ ```bash
+sudo pacman -Syu
+ ```
+ </details>
