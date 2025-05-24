@@ -1,5 +1,4 @@
-# [F#](https://fsharp.org/use/linux/) Toolkit
-
+# [F#](https://fsharp.org/use/linux/) [Toolkit](https://dotnet.microsoft.com/en-us/learn/fsharp)
 
 <details>
 
