@@ -1,5 +1,7 @@
 # [F#](https://fsharp.org/use/linux/) [Toolkit](https://dotnet.microsoft.com/en-us/learn/fsharp)
 
+
+## Install Steps
 <details>
 
 <summary>For Debian, Ubuntu, Linux Mint</summary>
@@ -39,3 +41,11 @@ dotnet --version
 sudo pacman -Syu
  ```
  </details>
+
+
+## HelloWorld Project
+```bash
+dotnet new console -lang F# -o HelloWorld && \
+cd ./HelloWorld && \
+dotnet run
+```
