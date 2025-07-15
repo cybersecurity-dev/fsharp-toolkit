@@ -1,5 +1,4 @@
-# [F#](https://fsharp.org/use/linux/) [Toolkit](https://dotnet.microsoft.com/en-us/learn/fsharp)
-
+# [F#](https://fsharp.org/use/linux/) [Toolkit](https://dotnet.microsoft.com/en-us/learn/fsharp) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/playlist?list=PL9V4Zu3RroiV11_Gq6dZuF1KYJF-jkf1w&si=l_efKG_AbTdD2Voy)
 
 ## Install Steps
 <details>
