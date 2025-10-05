@@ -62,3 +62,17 @@ dotnet new console -lang F# -o HelloWorld && \
 cd ./HelloWorld && \
 dotnet run
 ```
+
+
+
+##
+
+### Contributing
+
+[Contributions of any kind welcome, just follow the guidelines](contributing.md)!
+
+### Contributors
+
+[Thanks goes to these contributors](https://github.com/cybersecurity-dev/Fsharp-Toolkit/graphs/contributors)!
+
+[🔼 Back to top](#f-development-toolkit)
