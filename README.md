@@ -5,7 +5,7 @@
         </a>
     </p>
 
-# [F#](https://en.wikipedia.org/wiki/F_Sharp_(programming_language)) [Development](https://dotnet.microsoft.com/en-us/learn/fsharp) [Toolkit](https://github.com/cybersecurity-dev/awesome-fsharp-programming-language)
+# [F#](https://wikipedia.org/wiki/F_Sharp_(programming_language)) Development [Toolkit](https://dotnet.microsoft.com/en-us/learn/fsharp)
 </div>
 
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/cybersecurity-dev/Bash-Toolkit?tab=readme-ov-file#programming-language)
